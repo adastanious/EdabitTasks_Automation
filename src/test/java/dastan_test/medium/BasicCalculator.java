@@ -1,4 +1,4 @@
-package intermediate;
+package dastan_test.medium;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;

@@ -1,5 +1,6 @@
-package dastan.hard;
+package dastan_test.hard;
 
+import dastan.hard.ValidatePin;
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
